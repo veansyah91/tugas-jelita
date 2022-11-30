@@ -1,0 +1,202 @@
+{
+    "data" : [
+        {
+            "region" : "aceh",
+            "t2014" : 96,
+            "t2018" : 103,
+            "t2021" : 43
+        },
+        {
+            "region" : "sumatera utara",
+            "t2014" : 44,
+            "t2018" : 122,
+            "t2021" : 59
+        },
+        {
+            "region" : "sumatera barat",
+            "t2014" : 26,
+            "t2018" : 122,
+            "t2021" : 18
+        },
+        {
+            "region" : "jambi",
+            "t2014" : 36,
+            "t2018" : 171,
+            "t2021" : 16
+        },
+        {
+            "region" : "sumatera selatan",
+            "t2014" : 33,
+            "t2018" : 274,
+            "t2021" : 64
+        },
+        {
+            "region" : "BENGKULU",
+            "t2014" : 14,
+            "t2018" : 13,
+            "t2021" : 4
+        },
+        {
+            "region" : "LAMPUNG",
+            "t2014" : 2,
+            "t2018" : 44,
+            "t2021" : 11
+        },
+        {
+            "region" : "KEP. BANGKA BELITUNG",
+            "t2014" : 6,
+            "t2018" : 30,
+            "t2021" : 14
+        },
+        {
+            "region" : "KEP. RIAU",
+            "t2014" : 42,
+            "t2018" : 40,
+            "t2021" : 57
+        },
+        {
+            "region" : "DKI JAKARTA",
+            "t2014" : 0,
+            "t2018" : 0,
+            "t2021" : 1
+        },
+        {
+            "region" : "JAWA BARAT",
+            "t2014" : 72,
+            "t2018" : 200,
+            "t2021" : 76
+        },
+        {
+            "region" : "JAWA TENGAH",
+            "t2014" : 28,
+            "t2018" : 128,
+            "t2021" : 49
+        },
+        {
+            "region" : "DI YOGYAKARTA",
+            "t2014" : 1,
+            "t2018" : 3,
+            "t2021" : 4
+        },
+        {
+            "region" : "JAWA TIMUR",
+            "t2014" : 28,
+            "t2018" : 128,
+            "t2021" : 50
+        },
+        {
+            "region" : "BANTEN",
+            "t2014" : 3,
+            "t2018" : 13,
+            "t2021" : 8
+        },
+        {
+            "region" : "BALI",
+            "t2014" : 7,
+            "t2018" : 11,
+            "t2021" : 8
+        },
+        {
+            "region" : "NUSA TENGGARA BARAT",
+            "t2014" : 5,
+            "t2018" : 24,
+            "t2021" : 19
+        },
+        {
+            "region" : "NUSA TENGGARA TIMUR",
+            "t2014" : 94,
+            "t2018" : 264,
+            "t2021" : 144
+        },
+        {
+            "region" : "KALIMANTAN BARAT",
+            "t2014" : 161,
+            "t2018" : 338,
+            "t2021" : 135
+        },
+        {
+            "region" : "KALIMANTAN TENGAH",
+            "t2014" : 121,
+            "t2018" : 486,
+            "t2021" : 66
+        },
+        {
+            "region" : "KALIMANTAN SELATAN",
+            "t2014" : 12,
+            "t2018" : 236,
+            "t2021" : 60
+        },
+        {
+            "region" : "KALIMANTAN TIMUR",
+            "t2014" : 8,
+            "t2018" : 137,
+            "t2021" : 52
+        },
+        {
+            "region" : "KALIMANTAN UTARA",
+            "t2014" : 9,
+            "t2018" : 16,
+            "t2021" : 13
+        },
+        {
+            "region" : "SULAWESI UTARA",
+            "t2014" : 15,
+            "t2018" : 171,
+            "t2021" : 25
+        },
+        {
+            "region" : "SULAWESI TENGAH",
+            "t2014" : 19,
+            "t2018" : 199,
+            "t2021" : 29
+        },
+        {
+            "region" : "SULAWESI SELATAN",
+            "t2014" : 6,
+            "t2018" : 118,
+            "t2021" : 22
+        },
+        {
+            "region" : "SULAWESI TENGGARA",
+            "t2014" : 6,
+            "t2018" : 35,
+            "t2021" : 12
+        },
+        {
+            "region" : "SULAWESI BARAT",
+            "t2014" : 6,
+            "t2018" : 46,
+            "t2021" : 8
+        },
+        {
+            "region" : "GORONTALO",
+            "t2014" : 2,
+            "t2018" : 37,
+            "t2021" : 9
+        },
+        {
+            "region" : "MALUKU",
+            "t2014" : 38,
+            "t2018" : 140,
+            "t2021" : 26
+        },
+        {
+            "region" : "MALUKU UTARA",
+            "t2014" : 13,
+            "t2018" : 144,
+            "t2021" : 16
+        },
+        {
+            "region" : "PAPUA BARAT",
+            "t2014" : 0,
+            "t2018" : 24,
+            "t2021" : 12
+        },
+        {
+            "region" : "PAPUA",
+            "t2014" : 22,
+            "t2018" : 86,
+            "t2021" : 14
+        }
+    ]
+}
